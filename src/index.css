@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Inter", system-ui, sans-serif;
+  }
+  
+  body {
+    @apply bg-gray-50 text-gray-800;
+    font-size: 16px;
+  }
+
+  h1, h2, h3 {
+    @apply font-bold text-gray-900;
+  }
+  
+  p, li {
+    @apply text-gray-600;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition duration-300 ease-in-out;
+  }
+  
+  .btn-secondary {
+    @apply px-6 py-3 text-gray-700 border border-gray-300 rounded-md hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 transition duration-300 ease-in-out;
+  }
+  
+  .input-field {
+    @apply mt-2 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 focus:outline-none transition duration-300 ease-in-out;
+  }
+  
+  .card {
+    @apply bg-white rounded-lg shadow-lg p-6 transition-all duration-300 ease-in-out hover:shadow-xl;
+  }
+  
+  .card:hover {
+    @apply transform scale-105;
+  }
+
+  .form-heading {
+    @apply text-2xl font-semibold text-gray-900 mb-4;
+  }
+
+  .section-spacing {
+    @apply py-8;
+  }
+}
+
+@layer utilities {
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
+}
