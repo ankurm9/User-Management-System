@@ -1,5 +1,9 @@
 # 🛡️ SecureShield:  Role-Based Access Control Interface
 
+<div align="center">
+  <img src="/api/placeholder/800/400" alt="SecureShield User Interface Demo" width="800" height="400" />
+</div>
+
 ## 📝 Project Overview
 
 SecureShield is a cutting-edge, user-friendly Role-Based Access Control (RBAC) interface designed to provide comprehensive user management and granular permission allocation applications. The solution combines robust security with an intuitive design to streamline administrative workflows.
