@@ -1,7 +1,7 @@
 # 🛡️ SecureShield:  Role-Based Access Control Interface
 
 <div align="center">
-  <img src="/api/placeholder/800/400" alt="SecureShield User Interface Demo" width="800" height="400" />
+  <img src="./docs/assets/secureshield.gif" alt="SecureShield gif" width="650" height="300" />
 </div>
 
 ## 📝 Project Overview
@@ -124,21 +124,12 @@ Our approach to security is comprehensive and multi-layered:
 - **Role-Based Access Restrictions**: Granular control over system access
 - 
 
-## 📄 Licensing
-
-- **License**: MIT License
-- **Commercial Support**: Available for enterprise deployments
-- **Custom Features**: Tailored solutions upon request
-
 ## 📞 Support & Contact
 
-**SecureShield Team**
-- 📧 Email: support@secureshield.io
-- 🌐 Website: [www.secureshield.io](https://www.secureshield.io)
-- 🐱 GitHub: [SecureShield Repository](https://github.com/your-organization/secureshield)
+- 📧 Email: sandeshkhairnar123@gmail.com
+- 🐱 GitHub: [github.com/sandeshkhairnar/](https://github.com/sandeshkhairnar/)
 
 ---
 
-**🚀 Empower Your Access Management with SecureShield!**
 
 *Secure, Flexible, Intuitive Access Control*
