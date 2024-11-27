@@ -4,6 +4,12 @@
   <img src="./docs/assets/secureshield.gif" alt="SecureShield gif" width="650" height="300" />
 </div>
 
+<span></span>
+<p align="center">
+  <a href="https://shield-102ac.web.app/" target="_blank">Visit the Website</a>
+</p>
+
+
 ## 📝 Project Overview
 
 SecureShield is a cutting-edge, user-friendly Role-Based Access Control (RBAC) interface designed to provide comprehensive user management and granular permission allocation applications. The solution combines robust security with an intuitive design to streamline administrative workflows.
