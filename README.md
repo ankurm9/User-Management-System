@@ -17,7 +17,7 @@ SecureShield is a cutting-edge, user-friendly Role-Based Access Control (RBAC) i
 ## 🏗️ Project Structure
 
 ```
-secureshield/
+User Management System/
 ├── public/
 │   └── index.html
 ├── src/
@@ -93,8 +93,7 @@ Before you begin, ensure you have the following:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/sandeshkhairnar/SecureShield.git
-cd secureshield
+git https://github.com/ankurm9/User-Management-System.git
 ```
 
 ### 2. Install Dependencies
@@ -129,11 +128,6 @@ Our approach to security is comprehensive and multi-layered:
 - **Comprehensive Input Validation**: Protect against potential security vulnerabilities
 - **Role-Based Access Restrictions**: Granular control over system access
 - 
-
-## 📞 Support & Contact
-
-- 📧 Email: sandeshkhairnar123@gmail.com
-- 🐱 GitHub: [github.com/sandeshkhairnar/](https://github.com/sandeshkhairnar/)
 
 ---
 
